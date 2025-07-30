@@ -12,4 +12,68 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a375aa80e7c4da6ae978721092c33e2, type: 3}
   m_Name: Transmission
   m_EditorClassIdentifier: 
-  _data: []
+  _data:
+  - serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 200
+      inSlope: 84.47561
+      outSlope: 84.47561
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.022280471
+    - serializedVersion: 3
+      time: 4.962864
+      value: 973.4295
+      inSlope: 32.113094
+      outSlope: 32.113094
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.45862654
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 50
+      value: 1500
+      inSlope: 18.516186
+      outSlope: 18.516186
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.42778155
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  - serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 50
+      value: 900
+      inSlope: 1.4541029
+      outSlope: 1.4541029
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.4577226
+    - serializedVersion: 3
+      time: 98.9877
+      value: 1197.758
+      inSlope: 4.7738504
+      outSlope: 4.7738504
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 110
+      value: 1500
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
